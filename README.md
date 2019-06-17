@@ -1,4 +1,4 @@
-# Make your first Kaggle submission!
+# Make my first Kaggle submission!
 
 The Jupyter notebook goes through the Kaggle Titanic dataset via an exploratory data analysis (EDA) with Python and finishes with making a submission.
 
@@ -8,7 +8,7 @@ You can download the data from this repo or [directly from Kaggle](https://www.k
 
 If you find any bugs, or make any improvements on the results in the notebook, I'd love to hear. 
 
-Email me anytime: daniel@mrdbourke.com
+Email me anytime: farazshaikh66@gmail.com
 
 A full blog post to go along with the video and code is available [here](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184).
 
